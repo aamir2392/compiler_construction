@@ -1,0 +1,14 @@
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\bin\Debug\net6.0\lab7_task_1.exe
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\bin\Debug\net6.0\lab7_task_1.deps.json
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\bin\Debug\net6.0\lab7_task_1.runtimeconfig.json
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\bin\Debug\net6.0\lab7_task_1.dll
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\bin\Debug\net6.0\lab7_task_1.pdb
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\lab7_task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\lab7_task_1.AssemblyInfoInputs.cache
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\lab7_task_1.AssemblyInfo.cs
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\lab7_task_1.csproj.CoreCompileInputs.cache
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\lab7_task_1.dll
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\refint\lab7_task_1.dll
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\lab7_task_1.pdb
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\lab7_task_1.genruntimeconfig.cache
+C:\Users\Aamir Habib\source\repos\lab7\lab7_task_1\obj\Debug\net6.0\ref\lab7_task_1.dll
